@@ -80,7 +80,7 @@ body{
     height: 8%;
     border-radius: 80%;
     margin-top: 17px;
-    margin-left: 0px;
+    margin-left: -100px;
 }
 .instagramicon{
     height: 8%;
@@ -93,10 +93,11 @@ body{
     border-radius: 70%;
     margin-bottom: 3px;
     margin: none;
+    margin-left: -100px;
 
 }
 ul{
-    margin-left: 55px;
+    margin-left: -50px;
     position: relative;
     margin-bottom: 1px;
     margin-top: -1.5px;
