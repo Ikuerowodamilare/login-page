@@ -35,6 +35,8 @@ body{
     text-align: center;
     font-size: 22px;
     font-family: sans-serif;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
 }
 .loginbox p{ 
     margin: 0;
@@ -61,6 +63,7 @@ body{
     background: transparent;
     outline: none;
     height: 30px;
+    
 }
 .loginbox input[type="submit"]
 {
